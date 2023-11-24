@@ -1,0 +1,9 @@
+file:C:/Users/kredo29/.gitconfig	user.name=Stas
+file:C:/Users/kredo29/.gitconfig	user.email=k.stanislav2021@gmail.com
+file:C:/Users/kredo29/.gitconfig	alias.logo=log --pretty=oneline
+file:C:/Users/kredo29/.gitconfig	alias.logf=log --pretty=full
+file:C:/Users/kredo29/.gitconfig	alias.mylog=log --pretty=format:"%h * %ad * %an * %s" --date=short
+file:C:/Users/kredo29/.gitconfig	alias.log-search-code=log -S
+file:C:/Users/kredo29/.gitconfig	alias.log-search-message=log --grep
+file:C:/Users/kredo29/.gitconfig	alias.logg=log --graph
+file:C:/Users/kredo29/.gitconfig	alias.loglast=log -1
