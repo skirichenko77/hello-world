@@ -4,11 +4,10 @@ function getArguments() {
     return { n1: n1, n2: n2 };
 }
 
-function welcome() {
-    var args = getArguments();
-    var sum = args.n1 + args.n2;
-    alert('Привітання! Сума введених чисел: ' + sum);
+let numbers = getArguments();
+
+function calcMult(x, y) {
+    return x * y;
 }
 
-// Виклик функції welcome()
-welcome();
+alert('Добуток введених Вами чисел: ' + calcMult(numbers.n1, numbers.n2));
