@@ -7,7 +7,7 @@ function getArguments() {
 function welcome() {
     var args = getArguments();
     var sum = args.n1 + args.n2;
-    alert('Привітання! Сума введених чисел: ' + sum);
+    alert('Привітання! Сума введених Вами чисел: ' + sum);
 }
 
 // Виклик функції welcome()
